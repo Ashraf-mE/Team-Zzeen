@@ -1,1 +1,6 @@
 "# Team-Zzeen" 
+
+Thryve Digital IIIT Sricity Healthcare Hackathon - 2023
+
+
+MENTAL WELLNESS AND THERAPY SOLUTIONS USING DIGITAL HEALTHCARE
